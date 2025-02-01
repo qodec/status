@@ -11,6 +11,6 @@ export default defineConfig({
     cors: false,
     allowedHosts: true,
     // allowedHosts: ["p11099.cronusweb.com"],
-    proxy,
+    // proxy,
   },
 });

@@ -2,11 +2,11 @@
 import { GET } from "./utils";
 import Site from "./components/Site.vue";
 
-let { data: sites, loading } = GET("/status/sites.json");
+let { data: sites, loading } = GET("/status/sites.json", true);
 </script>
 
 <template>
-  <div class="p-20 font-[Jost] bg-gray-900 text-white/75 h-screen">
+  <div class="p-20 font-[Jost] bg-gray-900 text-white/75 min-h-screen">
     <section class="max-w-[1290px] mx-auto">
       <h1 class="text-center text-5xl tracking-widest">STATUS 🌤️</h1>
       <div v-if="loading" class="py-10">... LOADING ...</div>
