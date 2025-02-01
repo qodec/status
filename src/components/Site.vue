@@ -3,7 +3,8 @@ import { GET } from "../utils";
 import Ping from "./Ping.vue";
 
 const { domain } = defineProps(["domain"]);
-let { status, loading } = GET(`\\${domain}`);
+// let { status, loading } = GET(`\\${domain}`);
+let { status, loading } = GET(`https://${domain}`);
 </script>
 <template>
   <div class="border-white/20 border-1 rounded-lg p-6 font-light tracking-widest text-lg relative">
