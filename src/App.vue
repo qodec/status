@@ -2,7 +2,7 @@
 import { GET } from "./utils";
 import Site from "./components/Site.vue";
 
-let { data: sites, loading } = GET("/sites.json");
+let { data: sites, loading } = GET("/status/sites.json");
 </script>
 
 <template>
