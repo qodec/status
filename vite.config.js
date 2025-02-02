@@ -1,7 +1,7 @@
 import { defineConfig } from "vite";
 import vue from "@vitejs/plugin-vue";
 import tailwindcss from "@tailwindcss/vite";
-import { sitesProxy as proxy } from "./src/utils/proxy";
+// import { sitesProxy as proxy } from "./src/utils/proxy";
 
 export default defineConfig(({ mode }) => {
   return {

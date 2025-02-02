@@ -1,59 +1,107 @@
 [
   {
-    "domain": "servorien.com",
-    "logo": "/logo.png"
+    "domain": "9japredict.com",
+    "logo": "/logo.png",
+    "tag": "B"
   },
   {
-    "domain": "bizev.net",
-    "logo": "/logo.png"
-  },
-  {
-    "domain": "kraftiks.com",
-    "logo": "/logo.png"
-  },
-  {
-    "domain": "loafbasket.net",
-    "logo": "/logo.png"
-  },
-  {
-    "domain": "watermarkandvictoria.com",
-    "logo": "/logo.png"
-  },
-  {
-    "domain": "wxagency.com",
-    "logo": "/logo.png"
-  },
-  {
-    "domain": "refreshingmanna.org",
-    "logo": "/logo.png"
-  },
-  {
-    "domain": "pro-healthyliving.com",
-    "logo": "/logo.png"
-  },
-  {
-    "domain": "barjaconstruction.com",
-    "logo": "/logo.png"
+    "domain": "bakersatelier.com",
+    "logo": "/logo.png",
+    "tag": "A"
   },
   {
     "domain": "bakeryprofitmax.com",
-    "logo": "/logo.png"
+    "logo": "/logo.png",
+    "tag": "A"
   },
   {
-    "domain": "app.bakeryprofitmax.com",
-    "logo": "/logo.png"
-  },
-  {
-    "domain": "pianocrib.org",
-    "logo": "/logo.png"
-  },
-  {
-    "domain": "roomandrooms.com.ng",
-    "logo": "/logo.png"
+    "domain": "barjaconstruction.com",
+    "logo": "/logo.png",
+    "tag": "A"
   },
   {
     "domain": "bizepp.com",
-    "logo": "/logo.png"
+    "logo": "/logo.png",
+    "tag": "A"
+  },
+  {
+    "domain": "bizev.net",
+    "logo": "/logo.png",
+    "tag": "A"
+  },
+  {
+    "domain": "foluolatona.com",
+    "logo": "/logo.png",
+    "tag": "A"
+  },
+  {
+    "domain": "kraftiks.com",
+    "logo": "/logo.png",
+    "tag": "W"
+  },
+  {
+    "domain": "ldilic.com",
+    "logo": "/logo.png",
+    "tag": "B"
+  },
+  {
+    "domain": "leyume.com",
+    "logo": "/logo.png",
+    "tag": "A"
+  },
+  {
+    "domain": "lifeplusinternational.com",
+    "logo": "/logo.png",
+    "tag": "B"
+  },
+  {
+    "domain": "loafbasket.net",
+    "logo": "/logo.png",
+    "tag": "A"
+  },
+  {
+    "domain": "naijapredict.com",
+    "logo": "/logo.png",
+    "tag": "B"
+  },
+  {
+    "domain": "packzhub.com",
+    "logo": "/logo.png",
+    "tag": "W"
+  },
+  {
+    "domain": "pianocrib.org",
+    "logo": "/logo.png",
+    "tag": "A"
+  },
+  {
+    "domain": "pro-healthyliving.com",
+    "logo": "/logo.png",
+    "tag": "A"
+  },
+  {
+    "domain": "refreshingmanna.org",
+    "logo": "/logo.png",
+    "tag": "A"
+  },
+  {
+    "domain": "roomandrooms.com.ng",
+    "logo": "/logo.png",
+    "tag": "A"
+  },
+  {
+    "domain": "servorien.com",
+    "logo": "/logo.png",
+    "tag": "A"
+  },
+  {
+    "domain": "watermarkandvictoria.com",
+    "logo": "/logo.png",
+    "tag": "W"
+  },
+  {
+    "domain": "wxagency.com",
+    "logo": "/logo.png",
+    "tag": "W"
   }
-  
 ]
