@@ -1,9 +1,5 @@
 [
-  {
-    "domain": "9japredict.com",
-    "logo": "/logo.png",
-    "tag": "B"
-  },
+  
   {
     "domain": "bakersatelier.com",
     "logo": "/logo.png",
@@ -12,7 +8,17 @@
   {
     "domain": "bakeryprofitmax.com",
     "logo": "/logo.png",
-    "tag": "A"
+    "tag": "B"
+  },
+  {
+    "domain": "app.bakeryprofitmax.com",
+    "logo": "/logo.png",
+    "tag": "B"
+  },
+  {
+    "domain": "bieep.bakeryprofitmax.com",
+    "logo": "/logo.png",
+    "tag": "B"
   },
   {
     "domain": "barjaconstruction.com",
@@ -22,7 +28,8 @@
   {
     "domain": "bizepp.com",
     "logo": "/logo.png",
-    "tag": "A"
+    "tag": "A",
+    "status": "inactive"
   },
   {
     "domain": "bizev.net",
@@ -35,24 +42,19 @@
     "tag": "A"
   },
   {
-    "domain": "kraftiks.com",
+    "domain": "9japredict.com",
     "logo": "/logo.png",
-    "tag": "W"
+    "tag": "C"
   },
   {
     "domain": "ldilic.com",
     "logo": "/logo.png",
-    "tag": "B"
+    "tag": "C"
   },
   {
     "domain": "leyume.com",
     "logo": "/logo.png",
     "tag": "A"
-  },
-  {
-    "domain": "lifeplusinternational.com",
-    "logo": "/logo.png",
-    "tag": "B"
   },
   {
     "domain": "loafbasket.net",
@@ -62,12 +64,12 @@
   {
     "domain": "naijapredict.com",
     "logo": "/logo.png",
-    "tag": "B"
+    "tag": "C"
   },
   {
-    "domain": "packzhub.com",
+    "domain": "lifeplusinternational.com",
     "logo": "/logo.png",
-    "tag": "W"
+    "tag": "C"
   },
   {
     "domain": "pianocrib.org",
@@ -81,6 +83,11 @@
   },
   {
     "domain": "refreshingmanna.org",
+    "logo": "/logo.png",
+    "tag": "A"
+  },
+  {
+    "domain": "new.refreshingmanna.org",
     "logo": "/logo.png",
     "tag": "A"
   },
@@ -101,6 +108,31 @@
   },
   {
     "domain": "wxagency.com",
+    "logo": "/logo.png",
+    "tag": "W"
+  },
+  {
+    "domain": "nbc.wxagency.com",
+    "logo": "/logo.png",
+    "tag": "W"
+  },
+  {
+    "domain": "cc2024.wxagency.com",
+    "logo": "/logo.png",
+    "tag": "W"
+  },
+  {
+    "domain": "me.wxagency.com",
+    "logo": "/logo.png",
+    "tag": "W"
+  },
+  {
+    "domain": "kraftiks.com",
+    "logo": "/logo.png",
+    "tag": "W"
+  },
+  {
+    "domain": "packzhub.com",
     "logo": "/logo.png",
     "tag": "W"
   }
