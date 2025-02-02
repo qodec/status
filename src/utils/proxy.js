@@ -2,7 +2,8 @@ import fs from "fs";
 import path from "path";
 
 // For ViteConfig to list out sites in sites.json (proxy)
-const fp = path.resolve(__dirname, "../../public/status/sites.json");
+const isProd = process.env.NODE_ENV === "production";
+const fp = path.resolve(__dirname, isProd ? "../../public/status/sites.json" : "../../public/sites.json");
 const sites = JSON.parse(fs.readFileSync(fp, "utf-8"));
 
 export const sitesProxy = sites.reduce((acc, { domain }) => {
